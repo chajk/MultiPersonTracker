@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiTracker", "MultiTracker\MultiTracker.vcxproj", "{42609318-DDDF-4D53-B45B-AB6DD4EFCE32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42609318-DDDF-4D53-B45B-AB6DD4EFCE32}.Debug|x64.ActiveCfg = Debug|x64
+		{42609318-DDDF-4D53-B45B-AB6DD4EFCE32}.Debug|x64.Build.0 = Debug|x64
+		{42609318-DDDF-4D53-B45B-AB6DD4EFCE32}.Debug|x86.ActiveCfg = Debug|Win32
+		{42609318-DDDF-4D53-B45B-AB6DD4EFCE32}.Debug|x86.Build.0 = Debug|Win32
+		{42609318-DDDF-4D53-B45B-AB6DD4EFCE32}.Release|x64.ActiveCfg = Release|x64
+		{42609318-DDDF-4D53-B45B-AB6DD4EFCE32}.Release|x64.Build.0 = Release|x64
+		{42609318-DDDF-4D53-B45B-AB6DD4EFCE32}.Release|x86.ActiveCfg = Release|Win32
+		{42609318-DDDF-4D53-B45B-AB6DD4EFCE32}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D60AF05E-B98E-43B1-91C8-E5349DD10555}
+	EndGlobalSection
+EndGlobal
